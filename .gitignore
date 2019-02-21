@@ -106,5 +106,7 @@ venv.bak/
 # add custom rules
 **/dogImages
 **/haarcascades
+/submission
 **/lfw
 *.pt
+dog_app_leander.ipynb
